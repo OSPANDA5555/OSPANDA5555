@@ -1,0 +1,20 @@
+<svg width="700" height="64" viewBox="0 0 700 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="terminal typing animation">
+  <rect width="700" height="64" rx="10" fill="#05070d" stroke="#1e293b"/>
+  <circle cx="24" cy="20" r="5" fill="#F59E0B"/>
+  <circle cx="42" cy="20" r="5" fill="#10B981"/>
+  <circle cx="60" cy="20" r="5" fill="#00E5FF"/>
+  <g font-family="'JetBrains Mono', Menlo, Consolas, monospace" font-size="17" fill="#cbd5e1">
+    <text x="24" y="48" opacity="0">$ whoami → krish: aspiring_soc_analyst
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.22;0.27" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="24" y="48" opacity="0" fill="#00E5FF">$ tail -f /var/log/auth.log | grep "Failed"
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.25;0.30;0.47;0.52" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="24" y="48" opacity="0">$ nmap -sV -O target | huntress &gt; report.txt
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.50;0.55;0.72;0.77" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="24" y="48" opacity="0" fill="#10B981">$ triage --queue alerts --soc on-call ✓
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.75;0.80;0.95;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>

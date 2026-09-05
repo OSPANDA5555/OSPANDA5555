@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,100:0e7490&height=180&section=header&text=KRISH%20KUMAR%20DEY&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=ASPRING%20SOC%20ANALYST%20%7C%20SIEM%20%7C%20LINUX%20%7C%20NETWORK%20SECURITY&descAlignY=58&descAlign=50" alt="header"/>
+<img width="100%" src="assets/header.svg" alt="Krish Kumar Dey — Aspiring SOC Analyst"/>
 
 <p align="center">
-  <a href="https://github.com/OSPANDA5555"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+krish%3A+aspiring_soc_analyst;%24+tail+-f+%2Fvar%2Flog%2Fauth.log+%7C+grep+%22Failed%22;%24+nmap+-sV+-O+target+%7C+huntress+%3E+report.txt;%24+cat+mission.txt+%7C+garden+%3E+alerts+%7C+SOC+%3E+triage" alt="typing animation"/></a>
+  <img src="assets/typing.svg" alt="terminal typing animation"/>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ B.Tech Computer Science & IT @ **Ajeenkya DY Patil University** (Pune, 2025 → 
 ### `> ls ~/arsenal --tools`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,rust,js,nextjs,fastapi,postgres,docker,linux,aws,git,bash,vscode&theme=dark" alt="tech stack"/>
+  <img src="assets/stack.svg" alt="Python, Java, C, C++, Rust, JavaScript, Next.js, FastAPI, PostgreSQL, Docker, Linux, AWS, Git, Bash, VS Code"/>
 </p>
 
 ---
@@ -47,17 +47,7 @@ B.Tech Computer Science & IT @ **Ajeenkya DY Patil University** (Pune, 2025 → 
 ### `> ./telemetry.sh --github-stats`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OSPANDA5555&show_icons=true&bg_color=0d1117,title_color=00E5FF,text_color=cbd5e1,icon_color=00E5FF,border_color=1e293b&hide_border=false" alt="github stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=OSPANDA5555&background=0d1117&ring=00E5FF&fire=F59E0B&currStreakLabel=00E5FF&sideNums=cbd5e1&sideLabels=cbd5e1&dates=64748b&border=1e293b" alt="streak"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSPANDA5555&layout=compact&bg_color=0d1117,title_color=00E5FF,text_color=cbd5e1,border_color=1e293b&hide_border=false" alt="top languages"/>
-  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=OSPANDA5555&bg_color=0d1117&color=00E5FF&line=00E5FF&point=10B981&area=true&hide_border=true" alt="activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OSPANDA5555&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OSPANDA5555&background=0d1117&ring=00E5FF&fire=F59E0B&currStreakLabel=00E5FF&sideNums=cbd5e1&sideLabels=cbd5e1&dates=64748b&border=1e293b" alt="contribution streak"/>
 </p>
 
 ---
@@ -77,5 +67,3 @@ B.Tech Computer Science & IT @ **Ajeenkya DY Patil University** (Pune, 2025 → 
   <a href="https://github.com/OSPANDA5555"><img src="https://img.shields.io/badge/GitHub-OSPANDA5555-00E5FF?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
   <a href="https://krishcybersecurityportfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-krish.dey-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio"/></a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,100:05070d&height=140&section=footer" alt="footer"/>
